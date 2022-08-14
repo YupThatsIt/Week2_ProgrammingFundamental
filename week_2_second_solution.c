@@ -1,4 +1,4 @@
-//using a graph and output according to the condition
+//using a graph to output according to the condition
 #include <stdio.h>
 #include <math.h>
 
